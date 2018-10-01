@@ -131,3 +131,5 @@ The above code looks complex at first but if we know our JavaScript we'll realiz
 `_static` is not really necesssary, we could just return it directly, it's a matter of preference.
 
 `createInstance()` is our actual object, but we could also implement it like how we did `BetterSingleton`'s `init` function that returns the object we want. We would just adjust where we put our private variables in our closure scopes.
+
+###### [<- Back](../creational.md)

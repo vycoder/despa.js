@@ -7,7 +7,7 @@ Although design patterns describe object-oriented designs, they are based on pra
 
 ## Categories of Design Patterns
 
-1. Creational Design Patterns
+1. [Creational Design Patterns](content/creational.md)
 
     Focuses on hanlding object creation mechanisms where objects are created in a manner suitable for the situation you are working in. eg: _Constructor, Factory, Abstract, Prototype, Singleton, Builder_
 

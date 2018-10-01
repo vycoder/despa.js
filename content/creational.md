@@ -59,3 +59,6 @@ Object.defineProperties(newObject, {
 ##### Table of Contents
 * [Constructor Pattern](creational/constructor.md)
 * [Singleton Pattern](creational/singleton.md)
+
+
+###### [<- Back to index](../index.md)
