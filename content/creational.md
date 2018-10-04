@@ -35,7 +35,7 @@ Object.defineProperty(newObject, "someKey", {
 
 // or a shorthand
 const defineProp = function(obj, key, value) {
-    config.value = value;
+    const config = { value }
     Object.defineProperty(obj, key, config);
 }
 
