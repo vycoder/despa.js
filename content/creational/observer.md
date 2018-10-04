@@ -120,3 +120,5 @@ Right of the bat, it's not really hard to realize what the advantages are. Obser
 
 ## Disadvantages
 Consequently, the issues with this pattern stems from its major benefit. Highly decoupled publishers from subscribers can be very difficult to reason about how the code works upon looking at the source code specially for people who are new with your codebase. When the subject publishes a notification you can't really straightforwardly tell what will happen on the system just by looking at the source code. As such, like any other pattern we have to be very aware on how we use this pattern. If your subscribers tend to be dependent on each other or if one subsriber action should happen after another in a certain order, this is not the pattern to use.
+
+###### [<- Back](../creational.md)

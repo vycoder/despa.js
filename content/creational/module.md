@@ -93,3 +93,6 @@ revealModule.getFormalName = function() {
 Modules are really like makeshift classes where we could have some semblance of encapsulation. By using the Revealing Module Pattern and thinking about how to compose your functions, while we can't override members, we can extend them.
 
 In modern JavaScript, it's no longer necessary to implement modules like this manually, `require` or `import` are now available.
+
+
+###### [<- Back](../creational.md)

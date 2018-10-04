@@ -60,6 +60,7 @@ Object.defineProperties(newObject, {
 * [Constructor Pattern](creational/constructor.md)
 * [Singleton Pattern](creational/singleton.md)
 * [Module Pattern](creational/module.md)
+* [Observer Pattern](creational/observer.md)
 
 
 ###### [<- Back to index](../index.md)
